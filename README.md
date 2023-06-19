@@ -1,5 +1,5 @@
 <h1 align="center">
-  <h1 align="center">A Simple Snake Game application Built with React and typescript</h1>
+  <h1 align="center"> ✍️ A Simple Snake Game application Built with React and Typescript</h1>
 </h1>
 
 ## Motivation
